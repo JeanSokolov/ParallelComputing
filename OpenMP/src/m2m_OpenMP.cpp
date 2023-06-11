@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : main.cpp
+ Name        : m2m_OpenMP.cpp
  Author      :
  Version     :
  Copyright   : Your copyright notice
