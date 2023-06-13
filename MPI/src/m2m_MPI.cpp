@@ -4,7 +4,7 @@
  Author      : 
  Version     :
  Copyright   : Your copyright notice
- Description : Compute Pi in MPI C++
+ Description : Compute matrix matrix multiplication in MPI C++
  ============================================================================
  */
 #include <math.h> 
