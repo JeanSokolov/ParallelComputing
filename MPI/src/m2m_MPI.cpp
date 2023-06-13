@@ -7,7 +7,6 @@
  Description : Compute matrix matrix multiplication in MPI C++
  ============================================================================
  */
-#include <math.h> 
 #include "mpi.h" 
 #include <iostream>
 using namespace std;
